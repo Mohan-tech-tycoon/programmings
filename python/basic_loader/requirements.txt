@@ -1,0 +1,7 @@
+aiohttp==3.11.14
+asyncio==3.4.3
+dotenv==0.9.9
+pandas==2.2.3
+psycopg2-binary==2.9.10
+requests==2.32.3
+SQLAlchemy==2.0.39
